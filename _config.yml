@@ -4,9 +4,9 @@ menu:
 rss: /atom.xml
 
 archive_date_format: MMM DD
-fancybox: true
+fancybox: false
 
-duoshuo_shortname:
+duoshuo_shortname: klaith
 
-google_analytics:
+baidu_tongji: true
 favicon: /favicon.ico
