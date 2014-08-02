@@ -56,3 +56,9 @@ favicon: /favicon.ico
 [Demo the Theme]: http://heroicyang.com/
 [Duoshuo]: http://duoshuo.com
 [Fancybox]: http://fancyapps.com/fancybox/
+
+## Notes of Klaith
+
+- A few little amendments on the style
+- Remove public libraries / fonts which are hosted by Google (with useso.com)
+- Replace the copyright statement with CreativeCommons badge
